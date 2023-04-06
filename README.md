@@ -19,5 +19,5 @@ The datas taken from website can be seen on terminal and is shown in that format
   ArrivalTime: ' 17:30 ',\
   ArrivalAirport: ' Vienna ',\
   OldPrice: '€18.99\n',\
-  DiscountedPrice: '€16.72\n'
+  DiscountedPrice: '€16.72\n'\
 }
