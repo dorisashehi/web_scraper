@@ -1,7 +1,7 @@
 # web_scraper
 Scrap data from https://www.ryanair.com/
 
-Main branch is #master
+Main branch is master
 
 To run that code, execute into terminal that command:
 node flights.js
