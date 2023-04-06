@@ -1,13 +1,13 @@
 # web_scraper
 Scrap data from https://www.ryanair.com/
 
-Main branch is master
+Main branch is #master
 
 To run that code, execute into terminal that command:
 node flights.js
 
 The script gets content from website https://www.ryanair.com/ 
-and selects content based on classes puted to the DOM. 
+and selects content based on classes put to the DOM. 
 We can see these classes on that website with inspect element.
 
 The datas taken from website can be seen on terminal and is shown in that format:
